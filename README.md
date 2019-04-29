@@ -1,2 +1,2 @@
-# chandanwedsneha.github.io
+# chandanwedspooja.github.io
 It's  a marriage website for wedding event made by modifying the Start Bootstrap Open Sourced template.
